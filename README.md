@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=YOUR%20NAME&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Ebhomien%20Oserieme&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Platform+Engineer+%7C+Multi-Cloud+Architect;Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+Platforms+%26+Developer+Tools" />
 
@@ -84,7 +84,7 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 <p align="center">
 
 <!-- Customize your tech icons by adding or removing names in the URL below -->
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,ansible,prometheus,grafana,nginx,redis,mongodb,postgres,mysql,ubuntu,debian"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,docker,terraform,linux,bash,git,github,githubactions,powershell,python,nodejs,vscode,nginx,postgres,ubuntu"/>
 
 </p>
 
