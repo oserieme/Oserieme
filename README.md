@@ -115,17 +115,17 @@ A 2-3 sentence overview describing the monitoring, security, or developer toolin
 
 # ✍️ Technical Writing
 
-### [Article Title 1: Architecting Resilient Cloud Infrastructure](https://your-blog.com/articles/article-1)
-> **[One-line summary of the architectural problem explored]**
-A hands-on engineering guide walking through multi-region cloud design, high availability, and automated failover.
-- **Tech Stack**: `Azure`, `Terraform`, `High Availability`
+### [How to create a virtual machines in azure : A Step-by-Step Guide](https://dev.to/oserieme/how-to-create-a-virtual-machines-in-azure-a-step-by-step-guide-2d1c)
+> **[One-line summary on how to create a virtual machine in azure]**
+> Creating a virtual machine in Microsoft Azure involves several steps, from logging into the Azure Portal and configuring the required settings to selecting an operating system, choosing the appropriate VM size, configuring networking, and deploying the virtual machine..
+- **Tech Stack**: `Azure`, `Good configuration`
 
 ---
 
-### [Article Title 2: Zero-Downtime Deployments with CI/CD](https://your-blog.com/articles/article-2)
-> **[One-line summary of the deployment optimization]**
-Step-by-step breakdown of implementing blue-green deployments, canary rollouts, and automated rollbacks.
-- **Tech Stack**: `Kubernetes`, `GitHub Actions`, `ArgoCD`
+### [How to Create a Linux Virtual Machine in Microsoft Azure: A Step-by-Step Guide](https://dev.to/oserieme/how-to-create-a-linux-virtual-machine-in-microsoft-azure-a-step-by-step-guide-38oa)
+> **[One-line summary of how to create Linux virtual machine in Microsoft azure]**
+Creating a Linux Virtual Machine on Microsoft Azure was a valuable hands-on learning experience for me. Through this practical exercise, I learned how to configure a virtual machine, select Ubuntu as the operating system, review networking and authentication settings, and access a Linux environment in the cloud..
+- **Tech Stack**: `Azure`,` Linux`.
 
 ---
 
