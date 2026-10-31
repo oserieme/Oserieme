@@ -20,7 +20,7 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 - ☁️ Multi-Cloud Practitioner (**Azure | AWS | GCP**)
 - 📜 Certified in **[Your Key Certifications, e.g. AWS SAA / CKA / AZ-104]**
 - 🛠 Building open-source developer tools and cloud automation modules
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **oseriemeebhomien@gmail.com**
 
 ---
 
