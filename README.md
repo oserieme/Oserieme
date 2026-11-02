@@ -92,7 +92,7 @@ I enjoy solving complex architectural challenges, eliminating operational toil t
 
 # 💼 Featured Projects
 
-### [Project-One-Title](https://github.com/your-username/project-one)
+### [Quiz Master](https://ai.studio/apps/d3777369-4cc9-4628-b99e-397a1f14248e)
 > **[One-line hook or value proposition for your flagship project]**
 A 2-3 sentence overview describing the real-world problem solved, system architecture, how it handles scale, and why it matters to an engineering team.
 - **Tech Stack**: `Docker`, `Kubernetes`, `Terraform`, `Python`
